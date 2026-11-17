@@ -1,0 +1,35 @@
+Piksel Süpermarket Gizlilik Politikası
+Son güncelleme: 17 Kasım 2026
+Bu politika, Piksel Süpermarket oyununu ("Oyun") oynarken verilerinizin nasıl işlendiğini açıklar. Oyunu geliştiren: TurkicGames. İletişim: tekeberat18@gmail.com.
+1. Kısaca
+• Oyunda hesap, kayıt, reklam veya analitik sistemi yoktur.
+• Oyun ilerlemeniz yalnızca cihazınızda (tarayıcı deposunda) tutulur; sunucularımıza gönderilmez.
+• Geliştirici olarak sizin hakkınızda herhangi bir kişisel veri toplamayız ve saklamayız.
+• Çok oyunculu mod ve sesli sohbet isteğe bağlıdır; kullanırsanız aşağıdaki 4. maddedeki paylaşımlar olur.
+2. Cihazınızda saklanan veriler
+Oyun, tarayıcınızın yerel depolama alanını (localStorage, sessionStorage) ve küçük bir çerezi şu amaçlarla kullanır:
+• Oyuncu adınız ve cinsiyet seçiminiz
+• Kayıt dosyanız, ilerlemeniz, skor tablosu, yerleşim ve görünüm ayarlarınız, dil tercihiniz, hikâye ve öğretici durumu
+• Öğreticinin tamamlandığını hatırlamak için 1 yıl geçerli bir çerez
+• Oyun motoru kitaplığının (three.js) bir kopyası; sonraki açılışlarda daha hızlı yüklenmesi için
+Bu veriler cihazınızda kalır. Tarayıcı verilerini sildiğinizde bunlar da silinir ve oyun ilerlemeniz sıfırlanır.
+3. Üçüncü taraf kaynaklar
+Oyun açılırken oyun motoru kitaplığı (three.js) herkese açık içerik dağıtım ağlarından (cdnjs.cloudflare.com, cdn.jsdelivr.net) indirilebilir. Bu sunucular, her web sitesinde olduğu gibi IP adresinizi ve tarayıcı bilgilerinizi görebilir. Bu hizmetlerin kendi gizlilik politikaları geçerlidir.
+4. Çok oyunculu mod ve sesli sohbet (isteğe bağlı)
+Çok oyunculu modu kullanırsanız oyun, oyuncular arasında doğrudan bağlantı (WebRTC, eşler arası) kurar:
+• Oyuncuları eşleştirmek için herkese açık sinyalleşme sunucuları (WebTorrent tracker) ve STUN sunucuları (Google, Twilio) kullanılır. Bu sunucular IP adresinizi görebilir.
+• Odadaki diğer oyuncular oyuncu adınızı, oyun içi hareketlerinizi, mesajlarınızı ve IP adresinizi görebilir; bu, eşler arası bağlantının doğası gereğidir.
+• Bu verileri bizim sunucumuz üzerinden geçirmeyiz ve kaydetmeyiz.
+• Gerçek adınızı veya kişisel bilgilerinizi oyuncu adı olarak kullanmamanızı öneririz.
+Sesli sohbet: Mikrofonunuz yalnızca siz düğmeye bastığınızda ve tarayıcı izninizi verdikten sonra açılır. Ses, odadaki diğer oyunculara doğrudan iletilir; kaydedilmez ve bize gönderilmez.
+Kamera: Oyun içi telefon özelliğinde kamera kullanılırsa tarayıcı izin ister. Görüntü cihazınızda işlenir, bize gönderilmez. İzinleri tarayıcı ayarlarından istediğiniz zaman kapatabilirsiniz.
+5. Çocuklar
+Oyun, bilerek 13 yaşın altındaki çocuklardan kişisel veri toplamaz. Geliştirici olarak hiçbir kullanıcı verisi toplamadığımız için çocukların verileri de bizde bulunmaz. Çok oyunculu modu kullanan çocukların ebeveyn gözetiminde oynamasını öneririz.
+6. Haklarınız ve verilerinizi silme
+Verileriniz bizde tutulmadığından silme, düzeltme veya erişim işlemlerini kendiniz yapabilirsiniz: tarayıcınızın site verilerini ve çerezlerini temizlemeniz yeterlidir. KVKK, GDPR ve benzeri mevzuat kapsamındaki haklarınızla ilgili sorularınız için tekeberat18@gmail.com adresine yazabilirsiniz.
+7. Veri güvenliği
+Veriler cihazınızda kalır; çok oyunculu bağlantılar tarayıcıların standart WebRTC şifrelemesini kullanır. Yine de internet üzerinden hiçbir iletimin %100 güvenli olduğu garanti edilemez.
+8. Değişiklikler
+Bu politikayı güncelleyebiliriz. Güncel sürüm her zaman bu sayfada yayınlanır ve en üstteki tarih değişir.
+9. İletişim
+TurkicGames — tekeberat18@gmail.com
